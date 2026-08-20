@@ -9,6 +9,8 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * </p>
  *
  * @author 虎哥
+ * 
+ * 我是枣庄人--------
  * @since 2021-12-22
  */
 public interface BlogCommentsMapper extends BaseMapper<BlogComments> {
